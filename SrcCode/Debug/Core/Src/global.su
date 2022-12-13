@@ -1,0 +1,2 @@
+../Core/Src/global.c:24:6:str_cpy	24	static
+../Core/Src/global.c:32:9:compare	24	static
